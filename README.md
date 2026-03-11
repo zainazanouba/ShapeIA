@@ -8,6 +8,19 @@ The goal of the project is to explore the combination of **natural language proc
 
 ---
 
+## Screenshots
+
+### Main Interface
+![Main interface](assets/home-interface.png)
+
+### Natural Language Shape Generation
+![Chat command example](assets/chat-command.png)
+
+### Function Visualization Mode
+![Functions mode](assets/functions-mode.png)
+
+---
+
 # Features
 
 * Natural language commands for generating geometric shapes
@@ -67,6 +80,11 @@ ShapeIA
 │   ├── package-lock.json
 │   └── vite.config.js
 │
+│── assets
+│   ├── home-interface.png
+│   ├── chat-command.png
+│   └── functions-mode.png
+│
 ├── requirements.txt
 ├── .gitignore
 └── README.md
@@ -118,7 +136,7 @@ Visualization
 Clone the repository
 
 ```
-git clone https://github.com/yourusername/ShapeIA.git
+git clone https://github.com/zainazanouba/ShapeIA.git
 cd ShapeIA
 ```
 
